@@ -1,11 +1,16 @@
 _repo: L-art-d-aimer_73894
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73894-h/images/cover.jpg
 creator:
   author:
     agent_name: Gourmont, Jean de
     gutenberg_agent_id: '57264'
     url: http://www.gutenberg.org/2009/agents/57264
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73894#L-art-d-aimer
 gutenberg_issued: '2024-06-23'
 gutenberg_type: Text
 identifiers:
